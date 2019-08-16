@@ -51,7 +51,7 @@ ipython=5.0.0=py27_0
 ipython_genutils=0.2.0=py27h89fb69b_0
 ipywidgets=7.2.1=py27_0
 jasper=1.900.1=hd497a04_4
-jinja2=2.10=py27h4114e70_0
+jinja2=2.10.1
 jpeg=9b=h024ee3a_2
 jsonschema=2.6.0=py27h7ed5aa4_0
 jupyter=1.0.0=py27_4
@@ -88,7 +88,7 @@ mock=2.0.0=py27h0c0c831_0
 nbconvert=5.3.1=py27he041f76_0
 nbformat=4.4.0=py27hed7f2b2_0
 ncurses=6.1=hf484d3e_0
-notebook=5.5.0=py27_0
+notebook=5.7.8
 numpy=1.14.5=py27hcd700cb_0
 numpy-base=1.14.5=py27hdbf6ddf_0
 opencv=3.3.1=py27hdcf4849_0
@@ -114,7 +114,7 @@ python=2.7.15=h1571d57_0
 python-dateutil=2.7.3=py27_0
 pytz=2018.4=py27_0
 pywavelets=0.5.2=py27hecda097_0
-pyyaml=3.12=py27h2d70dd7_1
+pyyaml=4.2b1
 pyzmq=17.0.0=py27h14c3975_1
 qt=5.9.5=h7e424d6_0
 qtconsole=4.3.1=py27hc444b0d_0
@@ -132,8 +132,8 @@ sqlite=3.23.1=he433501_0
 statsmodels=0.9.0=py27h3010b51_0
 subprocess32=3.5.2=py27h14c3975_0
 tensorboard=1.8.0=py27hf484d3e_0
-tensorflow=1.8.0=h7b2774c_0
-tensorflow-base=1.8.0=py27h5f64886_0
+tensorflow=1.12.1
+tensorflow-base=1.12.1
 termcolor=1.1.0=py27_1
 terminado=0.8.1=py27_1
 testpath=0.3.1=py27hc38d2c4_0
